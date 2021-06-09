@@ -320,6 +320,12 @@ body{
     margin: 0px 20px;
 }
 
+.github-repo-icon-custom{
+    color: #000000;
+    font-size: 1.4rem;
+    margin: 0px 10px;
+}
+
 .footer-custom{
     padding: 5px 0 10px;
     margin: 0;
